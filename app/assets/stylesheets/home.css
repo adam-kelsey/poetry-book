@@ -1,0 +1,16 @@
+.intro-wallpaper {
+  background-image: url("/assets/wallpaper.jpg");
+  content: "";
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+
+.intro-words {
+  position: fixed;
+  top: 38%;
+  left: 40%;
+  color: black;
+}
